@@ -26,4 +26,8 @@ I'm a psychology PhD student at the University of Arizona. I am in Cognitive Neu
 
 
 
+The pronunciation of my name is "HWAH-doang SHAWNG".
+
+
+
 This website will be slowly updating...

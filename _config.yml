@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hua-Dong Xiong"
+title                    : "Hua-Dong Xiong | 熊华东"
 title_separator          : "-"
 name                     : &name "Hua-Dong Xiong"
 description              : &description "PhD student at the University of Arizona"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hua-Dong Xiong | 熊华东"
+  name             : "Hua-Dong Xiong"
   avatar           : "profile.jpg"
   bio              : "I study computational neuroscience."
   location         : "US"
