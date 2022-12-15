@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Hua-Dong Xiong (熊华东)"
+title: "Hi! I am Hua-Dong Xiong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,12 @@ The question I am working on:
 - Can agents learn a map (physical or cognitive) without metric representation? 
 - How much intelligence comes from language?
 
-# about me
+
+
+# About me
 
 I'm a psychology PhD student at the University of Arizona. I am in Cognitive Neural System Program working with Robert Wilson and Arne Ekstrom. Prior to my PhD, I worked with Xue-Xin Wei at UT Austin, and Da-Hui Wang at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
+
+
+
+This website will be slowly updating...
