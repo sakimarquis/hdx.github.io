@@ -34,7 +34,7 @@ Some interesting facts:
 - I am addicted to computer games, but only when there is an exam approaching. Since there are few exams I should take, I seldom play them now. 
 - I enjoy skiing, sick jokes and embarrassing short videos. 
 - Using a second language is painful for me, mostly because I can't help being sarcastic but I can't do it well in English. 
-- I am bad at calculating. I often mess up with single digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience.
+- I am bad at calculating. I often mess up with single digit calculations, even with a pen and paper. This always makes me doubt myself as a researcher in computational neuroscience.  (But large language models also fail to do simple calculations, I am not alone)
 
 
 
