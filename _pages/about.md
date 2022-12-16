@@ -22,7 +22,7 @@ The questions I am currently working on:
 
 # About me
 
-I'm a psychology PhD student at the University of Arizona. I am in the Cognitive Neural System Program working with Robert Wilson and Arne Ekstrom. Prior to my PhD, I worked with Xue-Xin Wei at UT Austin, and Da-Hui Wang at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
+I'm a psychology PhD student at the University of Arizona. I am in the Cognition and Neural Systems Program working with [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ&hl=en&oi=ao) and [Arne Ekstrom](https://scholar.google.com/citations?user=k21FbKYAAAAJ&hl=en&oi=ao). Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
 
