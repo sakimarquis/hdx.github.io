@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student with a focus on understanding the representations used by both biological and artificial agents to perform cognitive tasks. Most of my research time, I build phenomenological models to identify the hidden variables in behaviors, and build optimization-based neural network models to find normative neural solutions for cognitive functions. 
+I am broadly interested in understanding the representations used by both biological and artificial agents to perform cognitive tasks. Most of my research time, I build phenomenological models to identify the hidden variables in behaviors, and build optimization-based neural network models to find normative neural solutions for cognitive functions. 
 
 My current research interests include:
 
