@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Cognitive and Neural System Program, *University of Arizona*, 2026 (expected).
-  * Graduate Minor in Computer Science, 2023 (expected).
+  * Ph.D. Minor in Computer Science, 2023 (expected).
+  * M.S. in Psychology, 2023 (expected)
 * Computational and Cognitive Neuroscience Summer School, *Cold Spring Harbor Asia*, 2021.
 * M.Ed. in General Psychology, *Capital Normal University*, 2018 ~ 2021.
 * Computational Neuroscience Summer School, *Neuromatch Academy*, 2020.
