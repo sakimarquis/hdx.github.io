@@ -12,7 +12,7 @@ I am a PhD student with a focus on understanding the representations used by bot
 
 My current research interests include:
 
-- How feedforward inputs and recurrent dynamics contribute to the flexible encoding of prior information in working memory.
+- How feedforward and recurrent connections contribute to encoding prior information in working memory.
 - Exploration strategies across species.
 - Trade-offs between complexity and effectiveness in the formation of task representations by biological agents.
 - How to perform path integration without the use of a metric representation.
