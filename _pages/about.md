@@ -15,7 +15,7 @@ My current research interests include:
 - How feedforward inputs and recurrent dynamics contribute to the flexible encoding of prior information in working memory.
 - Exploration strategies across species.
 - Trade-offs between complexity and effectiveness in the formation of task representations by biological agents.
-- How to perform path integration without the use of a metric representation..
+- How to perform path integration without the use of a metric representation.
 - To what degree does language contribute to intelligence?
 
 
