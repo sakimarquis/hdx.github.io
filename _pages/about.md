@@ -16,7 +16,7 @@ My current research interests include:
 - Exploration strategies across species.
 - Trade-offs between complexity and effectiveness in the formation of task representations by biological agents.
 - How to perform path integration without the use of a metric representation.
-- To what degree does language contribute to intelligence?
+- To what extent does language contribute to intelligence?
 
 
 
