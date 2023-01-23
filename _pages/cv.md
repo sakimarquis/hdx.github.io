@@ -15,7 +15,7 @@ Education
   * Ph.D. Minor in Computer Science, 2023 (expected).
   * M.S. in Psychology, 2023 (expected)
 * Computational and Cognitive Neuroscience Summer School, *Cold Spring Harbor Asia*, 2021.
-* M.Ed. in General Psychology, *Capital Normal University*, 2018 ~ 2021.
+* M.Ed. in General Psychology, *Capital Normal University*, 2021.
 * Computational Neuroscience Summer School, *Neuromatch Academy*, 2020.
 * [MITx MicroMasters Program in Statistics and Data Science Program](https://micromasters.mit.edu/ds/), *edX*, 2019.
 * B.S. in Applied Psychology, *Shanghai Normal University*, 2017.
@@ -58,6 +58,7 @@ Teaching
 Grants
 ======
 
+- Travel Fund, *University of Arizona*, 2022.
 - Laboratory Open Fund, *Capital Normal University*, 2018 ~ 2019.
   - Project: How distractors influence the different states of working memory?
 - National College Students' Innovation Training Program, *Shanghai Normal University*, 2013 ~ 2014.
