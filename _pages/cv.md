@@ -44,7 +44,7 @@ Skills
 Conference Papers
 ======
 
-- **Xiong, H.D.** & Wei, X. X. (2022). Optimal encoding of prior information in noisy working memory systems. *Conference on Cognitive Computational Neuroscience 2022*. [doi](doi.org/10.32470/CCN.2022.1162-0)
+- **Xiong, H.D.** & Wei, X. X. (2022). Optimal encoding of prior information in noisy working memory systems. *Conference on Cognitive Computational Neuroscience 2022*. [doi](https://doi.org/10.32470/CCN.2022.1162-0)
 
 Teaching
 ======
