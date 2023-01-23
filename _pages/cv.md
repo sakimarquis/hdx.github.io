@@ -36,7 +36,7 @@ Research experience
 
 Skills
 ======
-* **Programming Languages**: Python (Pytorch, mne), Java, C# (Unity), MATLAB, Julia, Stan, LaTeX, JavaScript (WebPPL, jsPsych), R.
+* **Programming Languages**: Python (Pytorch, mne), Java, Shell, C# (Unity), MATLAB, Julia, Stan, LaTeX, JavaScript (WebPPL, jsPsych), R. 
 * **Computational Modeling**: Artificial neural network, reinforcement learning, spiking neural network, Bayesian.
 * **Neural Signal Processing**: EEG preprocess, MVPA (RSA, decoding, encoding).
 * **Experiment:** Design psychology experiments, code and deploy online experiments, carry out behavioral and EEG experiments.
