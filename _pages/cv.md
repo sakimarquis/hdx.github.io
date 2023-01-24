@@ -24,15 +24,15 @@ Research experience
 ======
 * Research Assistant, *Robert Wilson's Lab*, 2022 ~ Now.
   * Exploration strategies across species.
-  * Trade-offs between complexity and effectiveness in the formation of task representations by biological agents.
+  * Trade-offs between complexity and effectiveness in representation learning.
 * Research Assistant, *Arne Ekstrom's Lab*, 2022 ~ Now.
-  * How to perform path integration without the use of a metric representation.
+  * Path integration in strange geometry.
 * Remote Research Assistant, *[Xuexin Wei’s Lab](https://sites.google.com/view/xxweineuraltheory/research)*, 2021 ~ Now.
-  * Project: How feedforward inputs and recurrent dynamics contribute to the flexible encoding of prior information in working memory.
+  * Project: How feedforward inputs and recurrent dynamics contribute to the flexible encoding of prior information in working memory system.
 * Research Assistant, *[Da-Hui Wang](https://scholar.google.com.au/citations?user=6BkFUZcAAAAJ&hl=en)’s Lab*, Beijing Normal University, 2019 ~ 2020.
-  * Project: Biophysical mechanism of multiple working memory with 2D features.
+  * Project: Biophysical mechanism of 2D feature binding for multiple working memory items.
 * Master‘s Student, *Chunyan Guo's Lab*, 2018 ~ 2021
-  * Project: Cognitive model of prioritizing working memory contents. 
+  * Project: Stability of working memory in attended and unattended states. 
 
 Skills
 ======
