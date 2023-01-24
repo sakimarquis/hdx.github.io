@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Cognitive and Neural System Program, *University of Arizona*, 2026 (expected).
-  * Ph.D. Minor in Computer Science, 2023 (expected).
+  * Ph.D. Minor in Computer Science, 2024 (expected).
   * M.S. in Psychology, 2023 (expected)
 * Computational and Cognitive Neuroscience Summer School, *Cold Spring Harbor Asia*, 2021.
 * M.Ed. in General Psychology, *Capital Normal University*, 2021.
@@ -34,31 +34,32 @@ Research experience
 * Master‘s Student, *Chunyan Guo's Lab*, 2018 ~ 2021
   * Project: Stability of working memory in attended and unattended states. 
 
-Skills
-======
-* **Programming Languages**: Python (Pytorch, mne), Java, Shell, C# (Unity), MATLAB, Julia, Stan, LaTeX, JavaScript (WebPPL, jsPsych), R. 
-* **Computational Modeling**: Artificial neural network, reinforcement learning, spiking neural network, Bayesian.
-* **Neural Signal Processing**: EEG preprocess, MVPA (RSA, decoding, encoding).
-* **Experiment:** Design psychology experiments, code and deploy online experiments, carry out behavioral and EEG experiments.
-
 Conference Papers
 ======
 
 - **Xiong, H.D.** & Wei, X. X. (2022). Optimal encoding of prior information in noisy working memory systems. *Conference on Cognitive Computational Neuroscience 2022*. [doi](https://doi.org/10.32470/CCN.2022.1162-0)
+
+Skills
+======
+
+* **Programming Languages**: Python (Pytorch, mne), Java, Shell, C# (Unity), MATLAB, Julia, Stan, LaTeX, JavaScript (WebPPL, jsPsych), R. 
+* **Computational Modeling**: Artificial neural network, reinforcement learning, spiking neural network, Bayesian model.
+* **Neural Signal Processing**: EEG preprocess, MVPA (RSA, decoding, encoding).
+* **Experiment:** Design psychology experiments, code and deploy online experiments, carry out behavioral and EEG experiments.
 
 Teaching
 ======
 
 - Teaching Assistant, Healthy Psychology, *University of Arizona*, Spring 2023.
 - Teaching Assistant, Healthy Psychology, *University of Arizona*, Fall 2022.
-- Project Teaching Assistant, Computational Neuroscience Summer School, *Neuromatch Academy*, 2022.	
+- Project Teaching Assistant, Computational Neuroscience Summer School, *Neuromatch Academy*, 2022.
 - Tutorial Teaching Assistant, Computational Neuroscience Summer School, *Neuromatch Academy*, 2021.	
-- Tutor, Tutorial series on MVPA in EEG, *Capital Normal University*, Spring 2020.
+- Tutor, Workshop on MVPA in EEG, *Capital Normal University*, Spring 2020.
 
 Grants
 ======
 
-- Travel Fund, *University of Arizona*, 2022.
+- Conference Travel Fund, *University of Arizona*, 2022.
 - Laboratory Open Fund, *Capital Normal University*, 2018 ~ 2019.
   - Project: How distractors influence the different states of working memory?
 - National College Students' Innovation Training Program, *Shanghai Normal University*, 2013 ~ 2014.
