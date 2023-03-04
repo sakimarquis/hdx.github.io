@@ -23,10 +23,8 @@ Education
 Research experience
 ======
 * Research Assistant, *Robert Wilson's Lab*, 2022 ~ Now.
-  * Exploration strategies across species.
-  * Trade-offs between complexity and effectiveness in representation learning.
-* Research Assistant, *Arne Ekstrom's Lab*, 2022 ~ Now.
-  * Path integration in strange geometry.
+  * Exploration strategies.
+  * Optimal learning.
 * Remote Research Assistant, *[Xuexin Wei’s Lab](https://sites.google.com/view/xxweineuraltheory/research)*, 2021 ~ Now.
   * Project: How feedforward inputs and recurrent dynamics contribute to the flexible encoding of prior information in working memory system.
 * Research Assistant, *[Da-Hui Wang](https://scholar.google.com.au/citations?user=6BkFUZcAAAAJ&hl=en)’s Lab*, Beijing Normal University, 2019 ~ 2020.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Hua-Dong Xiong"
+title: "Hi! I am Huadong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,16 +13,14 @@ I am broadly interested in understanding the representations used by both biolog
 My current research interests include:
 
 - How feedforward and recurrent connections contribute to encoding prior information in working memory.
-- Exploration strategies across species.
+- Using recurrent neural network model to study complex exploration behaviors across species.
 - Trade-offs between complexity and effectiveness in the formation of task representations by biological agents.
-- How to perform path integration without the use of a metric representation.
-- To what extent does language contribute to intelligence?
-
-
+- Optimal learning.
+- Language and memory system in reinforcement learning.
 
 # About me
 
-I am a PhD student in the Cognition and Neural Systems Program at the University of Arizona. I work with [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ&hl=en&oi=ao) and [Arne Ekstrom](https://scholar.google.com/citations?user=k21FbKYAAAAJ&hl=en&oi=ao). Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
+I am a PhD student in the Cognition and Neural Systems Program at the University of Arizona. I work with [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ&hl=en&oi=ao). Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
 
