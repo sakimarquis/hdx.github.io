@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am broadly interested in understanding the representations used by both biological and artificial agents to perform cognitive tasks. Most of my research time, I build phenomenological models to identify the hidden variables in behaviors, and build optimization-based neural network models to find normative neural solutions for cognitive functions. 
+
+
+I use models to understand behaviors of both biological and artificial agents and explore how computation could be implemented in neural networks. Following the release of GPT-4, my research interest has partially shifted towards understanding the emergence of intelligence within large language models. 
 
 My current research interests include:
 
-- How feedforward and recurrent connections contribute to encoding prior information in working memory.
-- Using recurrent neural network model to study complex exploration behaviors across species.
-- Trade-offs between complexity and effectiveness in the formation of task representations by biological agents.
-- Optimal learning.
-- Language and memory system in reinforcement learning.
+- Use recurrent neural network as cognitive model to identify the hidden variables in decision-making across species.
+- Examine the ways prior information could be encoded in working memory system through optimization-based neural network models.
+- Investigate how humans utilize language as a tool of control and agency through dialogue. 
 
 # About me
 
