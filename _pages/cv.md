@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Cognitive and Neural System Program, *University of Arizona*, 2026 (expected).
-  * Ph.D. Minor in Computer Science, 2024 (expected).
-  * M.S. in Psychology, 2023 (expected)
-* Computational and Cognitive Neuroscience Summer School, *Cold Spring Harbor Asia*, 2021.
-* M.Ed. in General Psychology, *Capital Normal University*, 2021.
-* Computational Neuroscience Summer School, *Neuromatch Academy*, 2020.
-* [MITx MicroMasters Program in Statistics and Data Science Program](https://micromasters.mit.edu/ds/), *edX*, 2019.
-* B.S. in Applied Psychology, *Shanghai Normal University*, 2017.
+* Ph.D. in Cognitive and Neural System Program, *University of Arizona*.
+* Computational and Cognitive Neuroscience Summer School, *Cold Spring Harbor Asia*.
+* M.Ed. in General Psychology, *Capital Normal University*.
+* Computational Neuroscience Summer School, *Neuromatch Academy*.
+* [MITx MicroMasters Program in Statistics and Data Science Program](https://micromasters.mit.edu/ds/), *edX*.
+* B.S. in Applied Psychology, *Shanghai Normal University*.
 
 Research experience
 ======
