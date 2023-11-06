@@ -33,6 +33,9 @@ Research experience
 Conference Papers
 ======
 
+- **Xiong, H.D.**, Ji-An, L., Mattar, M., & Wilson, R. C. (2023). Distilling human decision-making dynamics: A comparative analysis of low-dimensional architectures. In *Proceedings of the NeurIPS 2023 AI for Science Workshop*.
+- Xie, H., **Xiong, H.D.**, & Wilson, R. C. (2023). Text2Decision: Decoding Latent Variables in Risky Decision Making from Think Aloud Text. In *Proceedings of the NeurIPS 2023 AI for Science Workshop*.
+- **Xiong, H.D.**, Ji-An, L., Mattar, M., & Wilson, R. (2023). Neural  network modeling reveals diverse human exploration behaviors via state  space analysis. In *Proceedings of the Conference on Cognitive Computational Neuroscience 2023*.
 - **Xiong, H.D.** & Wei, X. X. (2022). Optimal encoding of prior information in noisy working memory systems. *Conference on Cognitive Computational Neuroscience 2022*. [doi](https://doi.org/10.32470/CCN.2022.1162-0)
 
 Skills
