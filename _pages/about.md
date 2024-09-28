@@ -20,11 +20,15 @@ My current research interests include:
 
 # About me
 
-I am a PhD student in the Cognition and Neural Systems Program at the University of Arizona. I work with [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ&hl=en&oi=ao). Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
+I am a first year PhD student in the Cognition and Neural Systems Program at the University of Arizona. I work with [Robert Wilson](https://scholar.google.com/citations?user=4LxikSIAAAAJ&hl=en&oi=ao). Prior to my PhD, I worked with [Xue-Xin Wei](https://scholar.google.com/citations?user=7Pd1QzwAAAAJ&hl=en&oi=ao) at UT Austin, and [Da-Hui Wang](https://scholar.google.com/citations?user=6BkFUZcAAAAJ&hl=en&oi=sra) at Beijing Normal University. Before that, I used EEG to study working memory. Before that, I studied counseling psychology with a focus on cognitive behavioral therapy.
 
 The pronunciation of my name is "HWAH-doang SHAWNG".
 
-Some interesting facts:
+#### Some of my writing
+
+I enjoy exploring complex ideas and sharing my thoughts on how we understand the world around us. See **Blog Posts**. I hope you find these ideas interesting! Feel free to share your thoughts or comments with me via email—I'd love to hear your perspective.
+
+#### Some interesting facts:
 
 - I enjoyed reading when I was young. My favorite writers are James Joyce, Milan Kundera, Jorge Borges, Franz Kafka , Dostoyevsky and Edgar Allan Poe. 
 - This stupid username was set when I was a teenager, came from [Saki](https://en.wikipedia.org/wiki/Saki) and [Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez).
