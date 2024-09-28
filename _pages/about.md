@@ -41,3 +41,12 @@ I am addicted to explore complex ideas. I write some my *controversial* thoughts
 
 
 This website will be slowly updating...
+
+
+
+#### Thank you for reading this far, and here I'd like to make two calls to action:
+
+<small>1. **Avoid publishing papers on APA** – I have never successfully downloaded a paper from APA. It’s frustratingly inconvenient, and I believe it creates unnecessary barriers to accessing research. We need better, more accessible platforms to share knowledge and collaborate in academia.</small>
+
+<small>2. **Stop doing parameter recovery in any computational studies** – From an epistemological standpoint, parameter recovery is not only absurd but also largely pointless. More importantly, it carries an air of authority that lacks real justification. which discourages innovation. It makes researchers more inclined to stick with established models rather than develop new ones. The fear of having to justify a model through parameter recovery often suppresses the exploration of more creative or unconventional approaches. In chaotic systems, parameter recovery is simply impossible. Yet, when reviewers encounter novel models they don’t fully understand, all they can do is say something reflexively, “Please perform parameter recovery; otherwise, your model is meaningless.” We can forgive this classical conditioning—after all, I suspect my advisor’s Ten Simple Rules paper may have contributed to this trend. But the fact remains: this process is incredibly time-consuming. The key point here is that the best way to evaluate a model is through nested cross-validation. Among all the competing models, the one with the best fit should be preserved and respected—it doesn't need to justify itself through additional proofs. From a Bayesian perspective, a model improving fitting performance is the best Bayesian explanation. </small>
+
